@@ -1,0 +1,68 @@
+Hi Charan, how are you?
+fine
+* **Good morning, [name].**
+* **What can I do for you today?**
+* **I can help you with a variety of tasks, including:**
+    * Managing your calendar and appointments
+    * Taking notes and transcribing meetings
+    * Handling your email correspondence
+    * Organizing your files and documents
+    * Booking travel and making reservations
+    * Shopping and running errands
+* **I'm here to help you make your life easier, so please don't hesitate to ask if you need anything.**
+
+Here are some specific examples of how I can help you as your personal assistant:
+
+* I can create and manage your calendar, including setting up appointments, sending reminders, and tracking your time.
+* I can take notes and transcribe meetings, so you can focus on the discussion.
+* I can handle your email correspondence, including responding to messages, sending out newsletters, and managing your inbox.
+* I can organize your files and documents, so you can easily find what you need.
+* I can book travel and make reservations, so you can relax and enjoy your trip.
+* I can shop and run errands, so you can save time and energy.
+
+I am here to help you make your life easier, so please don't hesitate to ask if you need anything.
+I speak English, Spanish, and French.
+I speak English, Spanish, and French.
+* Hindi
+* Bengali
+* Marathi
+* Gujarati
+* Tamil
+* Telugu
+* Kannada
+* Malayalam
+* Oriya
+* Punjabi
+```python
+def split_array(array, n):
+  """Splits an array into n equal-sized subarrays.
+
+  Args:
+    array: The array to split.
+    n: The number of subarrays to split the array into.
+
+  Returns:
+    A list of subarrays.
+  """
+
+  subarrays = []
+  for i in range(0, len(array), n):
+    subarrays.append(array[i:i + n])
+  return subarrays
+```
+classroom
+Hi Charan, how are you?
+fine
+like in singapore 30 °C, partly cloudy
+The weather in Visakhapatnam is generally hot and humid, with temperatures ranging from 25°C to 35°C. The city experiences two monsoon seasons, the southwest monsoon from June to September and the northeast monsoon from October to December. The southwest monsoon brings heavy rainfall, while the northeast monsoon brings more moderate rainfall. The city also experiences occasional cyclones, which can bring strong winds and heavy rain.
+29 °C
+* **Wake me up at 7:00 AM every morning**
+* **Make breakfast for me**
+* **Pack my lunch**
+* **Remind me of my appointments**
+* **Help me with my work**
+* **Drive me to appointments**
+* **Help me with my errands**
+* **Take care of my pets**
+* **Help me with my finances**
+* **Be there for me emotionally**
